@@ -1,6 +1,6 @@
 ### chinese dictionary runs in rust.
 the goal is to provide Chinese-Indonesian dictionary for Indonesian learner. 
-have been alive on [dictdoy dictionary](https://dxdy88.github.io/dictdoy).
+the dictionary demo have been alive on [dictdoy dictionary](https://heydoy.my.id/dictdoy).
 
 ##### inspiration:
 dictionary source [MDBG CC-CEDIT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict).
