@@ -188,7 +188,7 @@ fn show_result(ui: &mut egui::Ui, search_results: &Vec<WordEntry>) {
 
         ui.horizontal_wrapped(|ui| {
             for definition in &entry.english {
-                ui.label(format!("• {}", definition));
+                ui.label(format!("• {definition}"));
                 ui.end_row();
             }
         });
