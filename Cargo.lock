@@ -636,8 +636,7 @@ dependencies = [
 [[package]]
 name = "chinese_dictionary"
 version = "2.1.6"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "cc3a725f108a4963ecd6577cf934db6b0224057b5f34144faf0f8db922cf2eb9"
+source = "git+https://github.com/cloned-doy/chinese_dictionary.git#f4e4b0555e4bece2176bb3a28f003ef8cc473b40"
 dependencies = [
  "bincode",
  "character_converter",
